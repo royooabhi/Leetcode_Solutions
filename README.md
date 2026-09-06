@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/royooabhi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/royooabhi/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/royooabhi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/royooabhi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/royooabhi/Leetcode/tree/master/2029-stone-game-ix) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/royooabhi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
