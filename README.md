@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/royooabhi/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/royooabhi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/royooabhi/Leetcode/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/royooabhi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/royooabhi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/royooabhi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/royooabhi/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/royooabhi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
