@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/royooabhi/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/royooabhi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/royooabhi/Leetcode/tree/master/0217-contains-duplicate) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/royooabhi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/royooabhi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/royooabhi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1929-concatenation-of-array](https://github.com/royooabhi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/royooabhi/Leetcode/tree/master/2029-stone-game-ix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/royooabhi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/royooabhi/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/royooabhi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/royooabhi/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/royooabhi/Leetcode/tree/master/2029-stone-game-ix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/royooabhi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/royooabhi/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/royooabhi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/royooabhi/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
