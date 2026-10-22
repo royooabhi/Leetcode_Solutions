@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/royooabhi/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/royooabhi/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/royooabhi/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/royooabhi/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
